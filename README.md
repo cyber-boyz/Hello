@@ -53,49 +53,77 @@ CMYK (Cyan, Magenta, Yellow, Key/Black):
 6.Best For: Physical prints and professional publishing.
 
 ● What are the five different image data structures?
+
 Binary image (only black and white)
+
 Grayscale image (shades of gray)
+
 Indexed color image (limited color palette)
+
 RGB image (full color)
+
 RGBA image (RGB + transparency)
 
 ● List out the major four types of images and justify their differences.
+
 Bitmap images: Made of pixels, lose quality when zoomed
+
 Vector images: Made of paths, no quality loss when scaled
+
 Raster images: Same as bitmap, used in photos
+
 3D images: Have depth and volume, used in modeling
 
+Justification of Differences
+
+Raster vs Vector: Raster depends on pixels (resolution dependent), while vector uses equations (resolution independent).
+
+3D vs 2D (Raster/Vector): 3D adds depth and perspective, unlike flat 2D images.
+
+Animated vs Static (Raster/Vector/3D): Animated images show motion through frames, while others are static representations.
+
 ● What is the difference between analogous and complementary color combinations?
+
 Analogous colors:
+
 Colors next to each other on color wheel
+
 Example: blue, green, cyan
+
 Look smooth and natural
 
 Complementary colors:
+
 Opposite colors on color wheel
+
 Example: blue and orange
+
 High contrast and eye-catching'
 
-● What is dithering? Discuss dithering vs anti-aliasing.
+● What is dithering? 
 
 Dithering is a technique used to create the illusion of more colors by mixing pixels of different colors.
 
-Dithering:
-Used when colors are limited
-Creates grainy effect
-Anti-aliasing:
-Smooths edges of shapes/text
-Reduces jagged edges
+
 
 ● What is the difference between bitmap and vector image representation
+
 Bitmap:
+
 Pixel-based
+
 Quality reduces when zoomed
+
 Used in photos
+
 Vector:
+
 Path-based
+
 Scalable without loss
+
 Used in logos and icons
+
 
 ● What is the file size of an image (100px × 100px, 16 bits)
 
@@ -120,9 +148,13 @@ Height: 5 × 72 = 360 px
 
 
 ● List out the four major characteristics of digital multimedia
+
 Interactivity
+
 Integration (text, audio, video together)
+
 Digital representation
+
 Non-linearity
 
 
@@ -132,24 +164,40 @@ Rasterizing is the process of converting vector graphics into pixels so they can
 
 
 ● Five types of gradients in Photoshop
+
 Linear: Straight line blend
+
 Radial: Circular gradient
+
 Angle: Rotates around a center
+
 Reflected: Mirror effect
+
 Diamond: Diamond-shaped gradient
 
 
 ● Difference between layer masking and clipping mask
+
 Layer Mask:
+
 Hides or reveals parts of a layer
+
 Uses black and white
+
 Clipping Mask:
+
 Uses one layer to control visibility of another
+
 Based on shape of bottom layer
+
 ● Advantages of Adobe Illustrator over Photoshop
+
 Vector-based (no quality loss)
+
 Best for logos and icons
+
 Smaller file size
+
 Easy to edit shapes
 
 
@@ -158,20 +206,27 @@ Easy to edit shapes
 CLUT (Color Look-Up Table):
 
 Stores a limited set of colors
+
 Used in indexed images
 
 Color cycling:
 
 Changing colors in palette over time
+
 Creates animation effect without changing pixels
+
 ● Correct image extension for frame animation in Photoshop
+
 GIF (.gif) is correct format
 
 Other alternatives:
 
 MP4 (video format)
+
 PNG sequence
+
 ● CSS Box Model properties
+
 Content
 Padding
 Border
@@ -181,14 +236,25 @@ It defines spacing and layout of elements.
 
 
 ● Difference between DPI and PPI
+
 PPI (Pixels Per Inch):
+
 Used for screens
+
 DPI (Dots Per Inch):
+
 Used for printing
+
 ● Impact of image resolution
+
 Higher resolution:
+
 Better quality
+
 Larger file size
+
 Lower resolution:
+
 Lower quality
+
 Smaller file size
