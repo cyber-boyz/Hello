@@ -18,19 +18,39 @@ Line, Shape, Form, Color, Texture, Space, Value, Size, Typography, Layout
 Any three:
 
 Color: Used to create mood and attract attention. It also helps in branding.
+
 Shape: Refers to 2D forms like circles, squares, etc., used to build structure.
+
 Space: The empty area around elements. It helps in making the design clean and readable.
 
 ● What is the difference between CMYK and RGB Color Mode
 RGB (Red, Green, Blue):
-Used for screens (digital)
-Light-based colors
-Brighter and more vibrant
 
-CMYK (Cyan, Magenta, Yellow, Black):
-Used for printing
-Ink-based colors
-Slightly duller than RGB
+2. Type: Additive color model.
+
+3. Principle: Colors are formed by adding light.
+
+4. Base: Starts with black background.
+
+5. Combination: Red + Green + Blue at full intensity = White.
+
+6. Application: Used in digital devices such as monitors, TVs, cameras, and smartphones.
+
+7. Best For: Screen display and web graphics.
+
+CMYK (Cyan, Magenta, Yellow, Key/Black):
+
+1. Type: Subtractive color model.
+
+2. Principle: Colors are formed by subtracting light using inks.
+
+3. Base: Starts with white paper.
+
+4. Combination: Cyan + Magenta + Yellow ideally = Black, but practically results in muddy brown, so Black (K) is added for depth and accuracy.
+
+5. Application: Used in printing processes such as magazines, posters, and packaging.
+
+6.Best For: Physical prints and professional publishing.
 
 ● What are the five different image data structures?
 Binary image (only black and white)
